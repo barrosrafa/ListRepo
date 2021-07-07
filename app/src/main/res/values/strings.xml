@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Repositórios do Github</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="error_default">Error! Something unexpected happened, try again!</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="version_label">Versão:</string>
+    <string name="developed_by_label">Desenvolvido por:</string>
+    <string name="devs_label">Rafael Aparecido Barros</string>
+
+    <string name="description_forks">%d forks</string>
+    <string name="description_stars">%d stars</string>
+</resources>
